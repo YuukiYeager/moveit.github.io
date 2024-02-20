@@ -1,0 +1,5 @@
+@media (min-width: 319px) and (max-width: 480px) {
+    .container #heroimg{
+        height: 160px;
+    }
+}
